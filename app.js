@@ -13,7 +13,7 @@ const portfolioData = {
       "Problem Solver",
       "React Developer"
     ],
-    profileImage: "https://raw.githubusercontent.com/Aasthajaisw/aastha-portfolio/main/assets/profile.jpg",
+    profileImage: "https://github.com/Aasthajaisw/Portfolio/blob/main/assets/Aastha_Picture.jpg",
     linkedin: "https://www.linkedin.com/in/aastha-jaiswal01/",
     github: "https://github.com/Aasthajaisw"
   },
